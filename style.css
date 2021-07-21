@@ -6,7 +6,7 @@ body {
     height: 125vh;
     background-image: url('#');
     background-size: cover;
-    font-family: sans-serif;
+    font-family: arial, sans-serif;
     margin-top: 80px;
     padding: 30px;
 }
@@ -16,7 +16,7 @@ main {
 }
 
 header {
-    background-color: white;
+    background-color: black;
     position: fixed;
     top: 0;
     left: 0;
@@ -36,6 +36,6 @@ header li {
 }
 
 header li a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
