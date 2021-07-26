@@ -40,6 +40,10 @@ header li a {
 }
 
 
+.imgPadding {
+    padding-left: 3px;
+}
+
 
 ul.no-bullets {
     list-style-type: none;
